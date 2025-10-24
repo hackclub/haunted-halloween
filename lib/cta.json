@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Haunted",
+        "logo": "https://hc-cdn.hel1.your-objectstorage.com/s/v3/cd344d85eb7d1e1992bc53a389352ea015a2e1f6_image.png",
+
+        "background": "#fc904e",
+
+        "description": "Make a custom halloween theme for a website, get a sticker and halloween candy",
+        "descriptionColor": "white",
+
+        "buttonText": "More Info",
+        "buttonColor": "rgb(50, 70, 110)",
+
+        "link": "/haunted-info.html"
+    },
+        {
+        "title": "Haunted",
+        "logo": "https://hc-cdn.hel1.your-objectstorage.com/s/v3/cd344d85eb7d1e1992bc53a389352ea015a2e1f6_image.png",
+
+        "background": "#fc904e",
+
+        "description": "Make a custom halloween theme for a website, get a sticker and halloween candy",
+        "descriptionColor": "white",
+
+        "buttonText": "More Info",
+        "buttonColor": "rgb(50, 70, 110)",
+
+        "link": "/haunted-info.html"
+    },
+        {
+        "title": "Haunted",
+        "logo": "https://hc-cdn.hel1.your-objectstorage.com/s/v3/cd344d85eb7d1e1992bc53a389352ea015a2e1f6_image.png",
+
+        "background": "#fc904e",
+
+        "description": "Make a custom halloween theme for a website, get a sticker and halloween candy",
+        "descriptionColor": "white",
+
+        "buttonText": "More Info",
+        "buttonColor": "rgb(50, 70, 110)",
+
+        "link": "/haunted-info.html"
+    }
+]
