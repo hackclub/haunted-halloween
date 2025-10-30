@@ -18,7 +18,7 @@ Haunted is a special event running until November 3rd where participants create 
 2. All work must be your own
 3. Track your time using Hackatime
 
-Learn more at [/haunted-info.html](/public/haunted-info.html)
+Learn more at [/haunted-info.html](/haunted-info.html)
 
 ## ✨ Features
 
@@ -70,7 +70,7 @@ yarn dev
 haunted-halloween/
 ├── components/          # React components
 │   ├── index/          # Homepage components
-│   │   └── cards/      # Card components (including haunted-halloween.js)
+│   │   └── cards/      # Card components (e.g., Halloween event card)
 │   ├── nav.js          # Navigation component
 │   ├── footer.js       # Footer component
 │   └── ...             # Other reusable components
@@ -94,7 +94,7 @@ haunted-halloween/
 - **[Emotion](https://emotion.sh/)** - CSS-in-JS styling
 - **[@hackclub/theme](https://github.com/hackclub/theme)** - Hack Club design system
 - **[MDX](https://mdxjs.com/)** - Markdown with JSX support
-- **TypeScript** - Type safety (partial)
+- **TypeScript** - Type checking enabled (strict mode off, JavaScript is primary)
 - **Million.js** - Performance optimization
 
 ## 🎨 Code Style
